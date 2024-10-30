@@ -2,8 +2,8 @@
 
 Bonus track: Native QR Code creation.
 
-See their [github page](https://github.com/WeActStudio/MiniSTM32H7xx).
-[AliExpress Listing](https://www.aliexpress.com/item/1005006632336183.html).
+See their [github page](Assets/https://github.com/WeActStudio/MiniSTM32H7xx).
+[AliExpress Listing](Assets/https://www.aliexpress.com/item/1005006632336183.html).
 
 
 ## Create the firmware
@@ -30,22 +30,22 @@ make -j 12 BOARD=WEACT_H743
 
 1. Put the device in DFU mode.
 
-![DFU](DFU.png)
+![DFU](Assets/DFU.png)
 
-2. Open [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)
+2. Open [STM32CubeProgrammer](Assets/https://www.st.com/en/development-tools/stm32cubeprog.html)
 
 3. Select USB1 and click Connect
 
-![Connect](Connect.png)
+![Connect](Assets/Connect.png)
 
 4. Click Erasing and Programming.
 5. Click Browse and select firmware.hex
 6. Click Start Programming.
 
-![Programming](Programming.png)
+![Programming](Assets/Programming.png)
 
 Et voilà !
 
-![Thonny](Thonny.png)
+![Thonny](Assets/Thonny.png)
 
-![Demo](Demo.jpg)
+![Demo](Assets/Demo.jpg)
