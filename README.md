@@ -8,12 +8,15 @@ See their [github page](https://github.com/WeActStudio/MiniSTM32H7xx).
 
 ## Create the firmware
 
+```bash
 git clone https://github.com/micropython/micropython
+open micropython/ports/stm32/
+```
 
 <copy files/folders>
 
 * --> Makefile: replace file
-* --> kongduino.c & kongduino/ Copy into ports/stm32
+* --> wdt.c, kongduino.c & kongduino/ Copy into ports/stm32
 * --> WEACT_H743/ Copy into ports/stm32/boards
 
 ```bash
