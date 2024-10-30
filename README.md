@@ -2,8 +2,8 @@
 
 Bonus track: Native QR Code creation.
 
-See their [github page](Assets/https://github.com/WeActStudio/MiniSTM32H7xx).
-[AliExpress Listing](Assets/https://www.aliexpress.com/item/1005006632336183.html).
+See their [github page](https://github.com/WeActStudio/MiniSTM32H7xx).
+[AliExpress Listing](https://www.aliexpress.com/item/1005006632336183.html).
 
 
 ## Create the firmware
